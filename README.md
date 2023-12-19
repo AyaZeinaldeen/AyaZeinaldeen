@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aya Zeinaldeen</h1>
 <h3 align="center">An Azure Certified BackEnd Developer</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"> 🎓 Education - Bachelor's degree in Computer and Telecommunication, Lebanese University 🏆 Certifications - Microsoft Azure Fundamentals (AZ-900) 💼 Professional Experience - **.NET MVC and .NET Core:** Hands-on experience in developing robust and scalable web applications. - **C#:** Proficient in utilizing C# for efficient and high-performance code. - **Content Management Systems (CMS):** Specialized in building and debugging CMS for streamlined content handling. - **API Development:** Skilled in designing and implementing APIs to enhance application functionality. - **Web Application Development:** Adept at working with various aspects of web applications, ensuring a comprehensive approach. - **Scrum Master:** Leading my team with Agile methodologies, ensuring seamless collaboration and project delivery. <h3 align="left">Languages and Tools:</h3>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"> 
+
+🎓 Education - Bachelor's degree in Computer and Telecommunication, Lebanese University
+
+🏆 Certifications - Microsoft Azure Fundamentals (AZ-900) 
+
+💼 Professional Experience 
+- **.NET MVC and .NET Core:** Hands-on experience in developing robust and scalable web applications.
+- **C#:** Proficient in utilizing C# for efficient and high-performance code. 
+- **Content Management Systems (CMS):** Specialized in building and debugging CMS for streamlined content handling.
+- **API Development:** Skilled in designing and implementing APIs to enhance application functionality. 
+- **Web Application Development:** Adept at working with various aspects of web applications, ensuring a comprehensive approach. 
+- **Scrum Master:** Leading my team with Agile methodologies, ensuring seamless collaboration and project delivery.
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
